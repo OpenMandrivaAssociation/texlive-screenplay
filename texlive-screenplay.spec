@@ -6,7 +6,7 @@
 # catalog-version 1.535
 Name:		texlive-screenplay
 Version:	1.535
-Release:	1
+Release:	2
 Summary:	A class file to typeset screenplays
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/screenplay
