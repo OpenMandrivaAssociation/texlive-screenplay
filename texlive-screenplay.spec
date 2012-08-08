@@ -1,12 +1,12 @@
-# revision 15878
+# revision 27223
 # category Package
 # catalog-ctan /macros/latex/contrib/screenplay
-# catalog-date 2009-01-07 11:54:09 +0100
+# catalog-date 2012-07-04 00:53:20 +0200
 # catalog-license gpl
-# catalog-version 1.535
+# catalog-version 1.6
 Name:		texlive-screenplay
-Version:	1.535
-Release:	2
+Version:	1.600
+Release:	1
 Summary:	A class file to typeset screenplays
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/screenplay
