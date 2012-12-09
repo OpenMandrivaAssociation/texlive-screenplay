@@ -54,3 +54,21 @@ Motion Picture Arts and Sciences.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Aug 08 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.600-1
++ Revision: 812838
+- Update to latest release.
+
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.535-2
++ Revision: 755806
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.535-1
++ Revision: 719494
+- texlive-screenplay
+- texlive-screenplay
+- texlive-screenplay
+- texlive-screenplay
+
