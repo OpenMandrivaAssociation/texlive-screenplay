@@ -5,8 +5,8 @@
 # catalog-license gpl
 # catalog-version 1.6
 Name:		texlive-screenplay
-Version:	1.600
-Release:	9
+Version:	1.6
+Release:	1
 Summary:	A class file to typeset screenplays
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/screenplay
